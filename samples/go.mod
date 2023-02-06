@@ -21,7 +21,7 @@ require (
 	github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v0.6.1
 	github.com/aws/aws-sdk-go v1.44.175
 	github.com/go-sql-driver/mysql v1.7.0
-	github.com/google/go-cmdtest v0.3.0
+	github.com/google/go-cmdtest v0.4.0
 	github.com/google/go-cmp v0.5.9
 	github.com/google/subcommands v1.2.0
 	github.com/google/uuid v1.3.0
