@@ -26,8 +26,7 @@ require (
 	github.com/hashicorp/go-secure-stdlib/parseutil v0.1.7 // indirect
 	github.com/hashicorp/go-uuid v1.0.3 // indirect
 	github.com/hashicorp/go-version v1.6.0 // indirect
-	github.com/hashicorp/vault/api v1.8.2
-	github.com/hashicorp/vault/sdk v0.6.2 // indirect
+	github.com/hashicorp/vault/api v1.8.3
 	github.com/hashicorp/yamux v0.1.1 // indirect
 	github.com/mattn/go-colorable v0.1.13 // indirect
 	github.com/mattn/go-isatty v0.0.17 // indirect
