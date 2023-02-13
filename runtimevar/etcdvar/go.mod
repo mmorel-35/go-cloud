@@ -22,7 +22,7 @@ require (
 	go.etcd.io/etcd v3.3.27+incompatible
 	go.etcd.io/etcd/client/v3 v3.5.6
 	gocloud.dev v0.28.0
-	google.golang.org/grpc v1.51.0
+	google.golang.org/grpc v1.53.0
 )
 
 replace gocloud.dev => ../../
